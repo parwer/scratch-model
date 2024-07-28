@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/parwe/scratch/gan/mlruns/0/52bbf95cc09944f9bb688518d994e09d/artifacts
+end_time: 1722138521920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52bbf95cc09944f9bb688518d994e09d
+run_name: ./results
+run_uuid: 52bbf95cc09944f9bb688518d994e09d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722138462248
+status: 3
+tags: []
+user_id: parwer
